@@ -1,5 +1,5 @@
 NAME
-    Net::Simple::Connection - Perl extension handling simple connection info
+    Net::Connection::Simple - Perl extension handling simple connection info
     within an application
 
 SYNOPSIS

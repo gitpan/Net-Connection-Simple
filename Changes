@@ -1,5 +1,8 @@
 Revision history for Perl extension Net::Connection::Simple.
 
+1.01  Tue Apr 25 11:55:00 2006
+	- Fixed minor doc error
+
 1.00  Tue Apr 18 16:32:00 2006
 	- Documentation cleaned up for initial release
 

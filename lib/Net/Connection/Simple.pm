@@ -6,7 +6,7 @@ use warnings;
 
 use Time::Timestamp;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 # CONSTRUCTOR
 sub new {
@@ -77,7 +77,7 @@ __END__
 
 =head1 NAME
 
-Net::Simple::Connection - Perl extension handling simple connection info within an application
+Net::Connection::Simple - Perl extension handling simple connection info within an application
 
 =head1 SYNOPSIS
 
